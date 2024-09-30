@@ -1,55 +1,57 @@
- nav > ul > li > {
-display: inline;
-margin-right: 15px;
+ nav>ul>li> {
+     display: inline;
+     margin-right: 15px;
  }
- nav li > a{
 
-    text-decoration:none ;
-    
+ nav li>a {
+
+     text-decoration: none;
+
 
  }
-footer{
 
-    margin-top: 15px;
-    text-align: center ;
-}
+ footer {
 
-.firstclass{
+     margin-top: 15px;
+     text-align: center;
+ }
 
-
-    background-color: rgb(136, 255, 0);
-color: brown;
-    margin: 10px;
-    border: 5px;
-}
-
-.secondclass{
-
-color: blue;
-background-color: rgb(255, 0, 200);
-margin: 12px;
-padding: 9px;
+ .firstclass {
 
 
-}
+     background-color: rgb(136, 255, 0);
+     color: brown;
+     margin: 10px;
+     border: 5px;
+ }
+
+ .secondclass {
+
+     color: blue;
+     background-color: rgb(255, 0, 200);
+     margin: 12px;
+     padding: 9px;
 
 
-.thirdclass{
- background-color: aqua;
-   color: rgb(165, 108, 42);
+ }
 
-    margin: 7px;
-    padding: 5px;
 
-}
+ .thirdclass {
+     background-color: aqua;
+     color: rgb(165, 108, 42);
 
-.fourth{
+     margin: 7px;
+     padding: 5px;
 
-color: brown;
+ }
 
-}
+ .fourth {
 
- .lastclass{
+     color: brown;
 
-    color: aqua
+ }
+
+ .lastclass {
+
+     color: aqua
  }
